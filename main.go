@@ -19,8 +19,6 @@ func main() {
 
 		//panggil service
 
-		//dapat data
-
 		id := c.Param("id")
 		contract_address := c.Param("contract-address")
 
